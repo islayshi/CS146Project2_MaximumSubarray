@@ -1,0 +1,7 @@
+READ ME
+
+Isla Shi, 10/16/2019
+
+MaximumSubarray is a class that comes with methods to determine what indexes to start and leave from
+will bring the most profit. Input in each method is an integer array, and three different algorithms
+can be used to find out the maximum sum. 
